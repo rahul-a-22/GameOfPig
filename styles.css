@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    color: #333;
+    padding: 50px;
+    line-height: 1.5em;
+}
+
+button { 
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gamecontrol, #score {
+    background-color: aliceblue;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#game {
+    background-color:#eaeaea;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#actions {
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
